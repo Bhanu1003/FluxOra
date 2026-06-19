@@ -1,0 +1,13 @@
+{
+  "name": "FluxOra — Currency Converter",
+  "short_name": "FluxOra",
+  "description": "Real-time currency converter with crypto support and historical charts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b1024",
+  "theme_color": "#0b1024",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
